@@ -8,3 +8,6 @@ this is sample project to learn features of git.
 ##Deployment
 
 ##How to contribute
+
+##copyright
+copyright 2021 git training.
