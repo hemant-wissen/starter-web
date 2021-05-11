@@ -1,5 +1,5 @@
 #Starter web project
-this is sample project to learn features of git. adding line for rebasing example.
+this is sample project to learn features of git. adding line for rebasing example, and then more changes from myfeature too.
 
 ##Introduction
 
